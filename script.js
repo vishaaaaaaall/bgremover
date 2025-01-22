@@ -9,7 +9,7 @@ const resultImage = document.getElementById('resultImage');
 const downloadBtn = document.getElementById('downloadBtn');
 
 // API key for Remove.bg
-const API_KEY = "KjRSNg5j2thmvTry3iUJbtnJ";
+const API_KEY = "1eVmq61BtNLvCkaPqCgwEpTn";
 
 // Show file preview only in the upload box
 fileInput.addEventListener('change', function () {
